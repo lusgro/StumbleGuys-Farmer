@@ -5,13 +5,13 @@
 ### 1era Opción:
 **1.** Descargá el *.ZIP* desde *releases*
 
-<img src="https://i.imgur.com/iHsYeBM.png" alt="Como descargar">
+<img src="https://i.imgur.com/iHsYeBM.png" alt="Como descargar desde releases">
 
  **2.** Descomprimilo en cualquier directorio
 ### 2da Opción:
 **1.** Descargá el archivo como *.ZIP*
 
-<img src="https://i.imgur.com/KTlbjFv.png" alt="Como descargar">
+<img src="https://i.imgur.com/KTlbjFv.png" alt="Como descargar desde pagina principal del repositorio">
 
  **2.** Descomprimilo en cualquier directorio
  
