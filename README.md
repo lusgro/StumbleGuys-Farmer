@@ -2,6 +2,13 @@
 <p align="center">Completá rápidamente el Stumble Pass</p>
 
 ## Instalación
+### 1era Opción:
+**1.** Descargá el *.ZIP* desde *releases*
+
+<img src="https://i.imgur.com/iHsYeBM.png" alt="Como descargar">
+
+ **2.** Descomprimilo en cualquier directorio
+### 2da Opción:
 **1.** Descargá el archivo como *.ZIP*
 
 <img src="https://i.imgur.com/KTlbjFv.png" alt="Como descargar">
